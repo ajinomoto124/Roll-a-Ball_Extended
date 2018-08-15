@@ -1,4 +1,4 @@
-# Roll-a-Ball_Extended
+# Roll-a-Ball Extended
 
 This is a personal project created based off of the Unity Tutorial series Roll a ball found here: [link](https://unity3d.com/learn/tutorials/s/roll-ball-tutorial)
 
